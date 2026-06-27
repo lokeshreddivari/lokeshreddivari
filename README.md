@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lokesh Reddivari 👋
 
-<!--
-**lokeshreddivari/lokeshreddivari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 2.5+ years in C++ and Qt
+building real-time embedded software for Defence,
+Aerospace and Automotive domains.
 
-Here are some ideas to get you started:
+## Skills
+- Languages: C, C++ (11/14/17), Embedded C
+- Frameworks: Qt 5/6, Qt Widgets, QML
+- Domains: Defence Systems, Radar Simulators,
+  Automotive HMI, LiDAR Perception
+- Tools: Git, JIRA, Valgrind, Cppcheck, Wireshark
+- OS: Linux (Ubuntu, RHEL), Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- C++20 (Coroutines, Concepts, Ranges)
+- QML advanced — C++ integration
+- AUTOSAR Classic Architecture
+
+## Projects
+- Command Management System (CMS)
+- Search Radar Simulator
+- INS and AIS Simulators
+- LiDAR Perception System (PCL)
+- Automotive Infotainment HMI
+
+## Contact
+- Email: lokeshreddivari95@gmail.com
+- Phone:9008383629
+- Location: Bangalore, India
